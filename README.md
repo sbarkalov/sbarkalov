@@ -1,4 +1,14 @@
-## Hi there 👋
+### hi, I'm Sergei 👋
+
+Somewhere between a product owner and a full-stack analyst. By day I help
+products with messy systems solve real user needs and untangle complex
+integrations; by night I build small things nobody asked for.
+
+**Currently tinkering with**
+- [awesome-analysis](https://github.com/sbarkalov/awesome-analysis) — a running list of stuff I wish I'd known earlier
+- [TrailTab](https://github.com/sbarkalov/trailtab) — a little Chrome extension, very much a work in progress
+
+My corner of the web → [sbarkalov.com](https://sbarkalov.com)
 
 <!--
 **sbarkalov/sbarkalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
