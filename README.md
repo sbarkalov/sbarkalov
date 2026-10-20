@@ -6,7 +6,8 @@ integrations; by night I build small things nobody asked for.
 
 **Currently tinkering with**
 - [awesome-analysis](https://github.com/sbarkalov/awesome-analysis) — a running list of stuff I wish I'd known earlier
-- [TrailTab](https://github.com/sbarkalov/trailtab) — a little Chrome extension, very much a work in progress
+- <img src="assets/trailtab.svg" width="16" height="16" alt=""> [TrailTab](https://github.com/sbarkalov/trailtab) — a little Chrome extension, very much a work in progress
+- <img src="assets/outwiry.svg" width="16" height="16" alt=""> [Outwiry](https://outwiry.com/) — one quiet Telegram feed from all my sources (channels, YouTube, HN, RSS), minus the ads and noise; in closed beta
 
 My corner of the web → [sbarkalov.com](https://sbarkalov.com)
 
